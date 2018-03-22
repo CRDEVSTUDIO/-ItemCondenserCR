@@ -1,0 +1,28 @@
+main: me.clearrelic24.iccr.main
+author: ClearRelic24
+description: ItemCondenserCR Created by ClearRelic24
+website: http://www.youtube.com/c/clearrelic24
+version: Public 1.4.3 Release
+name: ICCR
+commands:
+   iccr:
+     description: Condense all in block
+     permission: iccr.condense
+   cook:
+     description: Cook gold and iron
+     permission: iccr.cook
+   itemcondensercr:
+     description: Cook gold and iron
+   condenser:
+     description: Cook gold and iron
+     aliases: [condenser]
+permissions:
+  iccr.*:
+    description: all permission
+    children:
+      iccr.cook: true
+      iccr.condense: true
+  iccr.cook:
+    description: perms to use cook command
+  iccr.condense:
+    description: perms to use condense command

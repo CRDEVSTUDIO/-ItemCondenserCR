@@ -1,0 +1,30 @@
+#############################################################################################
+#	Information																				#
+#	Plugins created by ClearRelic24															#
+#	Concept created by ClearRelic24															#
+#	Creation date 26/02/2018																#
+#   Version Creation date 28/08/2018														#
+#	Created to Sherbrooke, Quebec, Canada													#
+#	Plugin name (short) ICCR																#
+#	Plugin name (long) ItemCondenserCR														#
+#	Tested by CRServ																		#
+#	Contact the creator ClearRelic24@gmail.com												#
+#	Version of plugin 1.4.3 Release public													#
+#############################################################################################
+Other plugin created by ClearRelic24
+EnchantAspiratorCR 	(Contact ClearRelic24@gmail.com if you wish a copy of this plugin)
+SniperCR 			(Download on Bukkit: Http://dev.bukkit.org/bukkit-plugins/sniperCR)
+Blood-Effect		(Download on Bukkit: Http://dev.bukkit.org/bukkit-plugins/blood-effect)
+PersoINFO 			(Contact ClearRelic24@gmail.com if you wish a copy of this plugin)
+PersoSTAFF 			(Download on Bukkit: Http://dev.bukkit.org/bukkit-plugins/perostaff)
+PeroMSG 			(Download on Bukkit: Http://dev.bukkit.org/bukkit-plugins/persomsg)
+GrenadeCR 			(Download on Bukkit: Http://dev.bukkit.org/bukkit-plugins/grenadecr)
+SmokeGrenadeCR		(Download on Bukkit: Http://dev.bukkit.org/bukkit-plugins/smokegrenadecr)
+ServerKit 			(Download on Bukkit: Http://dev.bukkit.org/bukkit-plugins/serverkit)
+SniperCRKit 		(Download on Bukkit: Http://dev.bukkit.org/bukkit-plugins/snipercrkit)
+FusilCR 			(Download on Bukkit: Http://dev.bukkit.org/bukkit-plugins/fusilcr)
+MuniCR				(Download on Bukkit: Http://dev.bukkit.org/bukkit-plugins/municr)
+#############################################################################################
+#	This Plugin is now in Release Version													#
+#	CRSTUDIO and ClearRelic24 is not responsable of all damage caused by this plugin		#
+#############################################################################################
